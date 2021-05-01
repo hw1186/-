@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stackCalculator.c">
+    <ClCompile Include="queue.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
